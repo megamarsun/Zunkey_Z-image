@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+tmp/
+output_batch/
+prompts_backup/
+prompts.txt
+zunkey_z_image_config.json
+dist/
+build/
+*.spec
